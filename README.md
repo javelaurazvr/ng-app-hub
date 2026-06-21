@@ -1,2 +1,14 @@
 # ng-app-hub
-HTML page archive and documentation
+
+HTML 文件托管仓库
+
+这里保存静态 HTML 文件，便于后续查找、访问和核对。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 内容说明
+
+仓库中的 HTML 文件为主要内容，README 仅保留简要说明。
